@@ -1,10 +1,10 @@
 ## Prerequisites
-- install Node 
+- Install Node 
 - `npm install -g protractor` to install protractor
 - `npm install` to install the project dependencies
 - This will install two command line tools `protractor` and `webdriver-manager`
 - The `webdriver-manager` is a helper tool to easily get an instance of a Selenium Server running.
-start up a server with:  `webdriver-manager start`
+Start the server with:  `webdriver-manager start`
 
 ## Description
 - run tests: `protractor conf.js`
